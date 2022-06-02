@@ -1,0 +1,9 @@
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\Matrix_KeyWords_Generator.pdb
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\libSystem.IO.Compression.Native.dylib
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\libSystem.Native.dylib
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\libSystem.Net.Security.Native.dylib
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\libSystem.Security.Cryptography.Native.Apple.dylib
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\libSystem.Security.Cryptography.Native.OpenSsl.dylib
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\libclrjit.dylib
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\libcoreclr.dylib
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish_mac\Matrix_KeyWords_Generator

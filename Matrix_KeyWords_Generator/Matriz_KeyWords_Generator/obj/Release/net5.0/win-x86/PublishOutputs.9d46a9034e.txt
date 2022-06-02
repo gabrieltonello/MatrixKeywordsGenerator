@@ -1,0 +1,6 @@
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish\Matrix_KeyWords_Generator.pdb
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish\clrcompression.dll
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish\clrjit.dll
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish\coreclr.dll
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish\mscordaccore.dll
+C:\Users\gabri\projetos\Matrix_KeyWords_Generator\publish\Matrix_KeyWords_Generator.exe

@@ -1,0 +1,13 @@
+Passo a passoa para gerar as matrizes de keywords:
+
+- incluir os arquivos pdfs que deseja analisar na pasta "Arquivos". O texto do pdf precisa estar em formato de texto e não em imagem.
+
+- incluir as palavras que deseja analisar no arquivo "Words.csv". Palavras na mesma linha separadas por vírgula significa que elas tem o mesmo significado. Por exemplo: "rato,mouse,camundongo". Sendo assim, o programa vai procurar por estas palavras e atribuir o mesmo significado na varredura. Caso você queira adicionar outras palavras na comparação é preciso adicionar na linha abaixo. Deixei alguns exemplos para facilitar a compreensão.
+
+- Agora basta rodar clicando em "Matriz_KeyWords_Generator.exe" para gerar as tabelas. No momento está gerando duas tabelas, uma com "AND" que analisa se AMBAS palavras comparadas tem no pdf e outrao com "NOT" onde, na comparação de duas palavras, uma é encontrada e outra não.
+
+- Os arquivos são gerados na pasta Arquivos_Gerados.
+
+  
+
+
